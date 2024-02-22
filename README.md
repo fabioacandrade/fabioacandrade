@@ -22,7 +22,7 @@
 
 <hr>
 
-- 👨‍💻 I’m currently studying Computer Science at PUC Minas
+- 👨‍💻 I’m currently studying Computer Science at PUC Minas (3º Período)
 - ☕ Learning and Studying Java, C, Software Development and other Back-End languages
 - ⚡ Looking for my first oportunitty in the technology area #OpenToWork
 
