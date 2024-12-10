@@ -24,7 +24,6 @@
 
 - 👨‍💻 I’m currently studying Computer Science at PUC Minas (4º Período)
 - ☕ Learning and Studying Java Spring Boot Software Development, ReactJS and other languages
-- ⚡ Looking for my first oportunitty in the technology area #OpenToWork
 
 <hr>
 <div> 
