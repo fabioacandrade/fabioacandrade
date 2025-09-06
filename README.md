@@ -22,7 +22,7 @@
 
 <hr>
 
-- 👨‍💻 I’m currently studying Computer Science at PUC Minas (5º Período)
+- 👨‍💻 I’m currently studying Computer Science at PUC Minas (6º Período)
 - 🧑🏻‍💻Software Developer at GroupSoftware
 - ☕ Learning and Studying Java Spring Boot Software Development, ReactJS and other languages
 
